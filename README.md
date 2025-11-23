@@ -160,7 +160,7 @@ All operations completed. Disconnect!
 - Details zur Versionsgeschichte findest du in der Datei [CHANGELOG](CHANGELOG)
 
 ## Hilfe und Diskussion
-- Comming soon!
+- Hilfe und Diskussionen gerne über das UGREEN Forum - DACH Community [Shell-Skript: Öffentlichen RSA-Schlüssel generieren und senden](https://ugreen-forum.de/forum/thread/1953-shell-skript-%C3%B6ffentlichen-rsa-schl%C3%BCssel-generieren-und-senden/)
 
 ## Lizenz
 - MIT License [LICENSE](LICENSE)
